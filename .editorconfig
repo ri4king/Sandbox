@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0040: Добавьте модификаторы доступности
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:none
